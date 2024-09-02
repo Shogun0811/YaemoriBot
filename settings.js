@@ -17,7 +17,7 @@ global.owner = [
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.mods = []
-global.prems = []
+global.prems = ["221760263631"]
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
@@ -30,10 +30,10 @@ global.jadi = 'MiniJadiBot'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = '⪛✰ 𝐀𝐢 𝐘𝐚𝐞𝐦𝐨𝐫𝐢 - 𝐌𝐃 ✰⪜'
+global.packname = '⪛✰Bicom±Lab ✰⪜'
 global.botname = '𝗔𝗶 𝗬𝗮𝗲𝗺𝗼𝗿𝗶 - 𝗠𝗗 🍭'
 global.wm = '𝗬𝗮𝗲𝗺𝗼𝗿𝗶 𝗕𝗼𝘁 - 𝗠𝗗 ⭐️'
-global.author = '𝖮𝖿𝖼.𝖣𝗂𝖾𝗀𝗈 👑'
+global.author = 'Bicomaru.Shogunai👑'
 global.dev = '© Powered By Sunlight Team ⚡︎'
 6
 global.textbot = '𝗔𝗶 𝗬𝗮𝗲𝗺𝗼𝗿𝗶 : 𝗢𝗳𝗰𝗗𝗶𝗲𝗴𝗼 🚩'
